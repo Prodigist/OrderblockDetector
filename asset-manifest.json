@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/orderblock-detector/static/css/main.f855e6bc.css",
-    "main.js": "/orderblock-detector/static/js/main.28dc5a96.js",
-    "static/js/488.40a5989b.chunk.js": "/orderblock-detector/static/js/488.40a5989b.chunk.js",
-    "index.html": "/orderblock-detector/index.html",
-    "main.f855e6bc.css.map": "/orderblock-detector/static/css/main.f855e6bc.css.map",
-    "main.28dc5a96.js.map": "/orderblock-detector/static/js/main.28dc5a96.js.map",
-    "488.40a5989b.chunk.js.map": "/orderblock-detector/static/js/488.40a5989b.chunk.js.map"
+    "main.css": "/OrderblockDetector/static/css/main.f855e6bc.css",
+    "main.js": "/OrderblockDetector/static/js/main.c9df1b20.js",
+    "static/js/488.40a5989b.chunk.js": "/OrderblockDetector/static/js/488.40a5989b.chunk.js",
+    "index.html": "/OrderblockDetector/index.html",
+    "main.f855e6bc.css.map": "/OrderblockDetector/static/css/main.f855e6bc.css.map",
+    "main.c9df1b20.js.map": "/OrderblockDetector/static/js/main.c9df1b20.js.map",
+    "488.40a5989b.chunk.js.map": "/OrderblockDetector/static/js/488.40a5989b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.28dc5a96.js"
+    "static/js/main.c9df1b20.js"
   ]
 }
